@@ -33,7 +33,7 @@ export default function Footer() {
                 </div>
 
                 <div className="mt-4 mb-2 md:mb-0 text-center text-xs md:text-sm font-semibold md:font-medium text-white/50">
-                    &copy; {new Date().getFullYear()} made by Prak.
+                    &copy; made by Prak.
                 </div>
             </div>
         </section>
