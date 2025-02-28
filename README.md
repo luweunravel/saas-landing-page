@@ -1,12 +1,8 @@
-# Layer Landing Sass Project
+# Sass landing page
 
-This Layer Landing Sass project is under **NighteCoding** and is built using **Next.js**, **TypeScript**, **TailwindCSS**, and **Framer Motion**. 
+built using **Next.js**, **TypeScript**, **TailwindCSS**, and **Framer Motion**. 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Performance Screenshot
-
-![PageSpeed Insights Mobile](./src/assets/jptribe-landingSass-PageSpeedMob.png)
 
 ## Getting Started
 
